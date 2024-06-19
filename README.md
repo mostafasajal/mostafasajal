@@ -36,7 +36,7 @@
 ![<GITHUB>](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
 ![<DJANGO>](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![<EXPRESS.JS>](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js&logoColor=white)
-![<TAILWIND>](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind&logoColor=white)
+![<TailwindCSS>](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![<WORDPRESS>](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### My GitHub Stats
