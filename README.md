@@ -36,9 +36,8 @@
 ![<GITHUB>](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
 ![<DJANGO>](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![<EXPRESS.JS>](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js&logoColor=white)
-![<FIREBASE>](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
 ![<TAILWIND>](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind&logoColor=white)
-
+![<WORDPRESS>](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### My GitHub Stats
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasajal&show_icons=true&theme=chartreuse-dark)
